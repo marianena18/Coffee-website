@@ -1,0 +1,55 @@
+#header {
+  background-color: brown;
+  height: 30%;
+  padding-top: 50px;
+}
+
+#header {
+  display: flex;
+}
+
+.h1 {
+  padding-left: 100px;
+  text-align: left;
+}
+
+.list ul {
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+  font-size: 1rem;
+  margin-right: 30px;
+  padding-left: 860px;
+  float: right;
+  color: white;
+}
+
+#body {
+  background-color: brown;
+  height: 70%;
+  padding-top: 50px;
+  padding-bottom: 20%;
+}
+
+#body {
+  display: flex;
+}
+
+.h2 {
+  text-align: left;
+  padding-left: 100px;
+  color: white;
+  font-size: xx-large;
+}
+
+.words {
+  text-align: left;
+  color: white;
+  font-size: large;
+  padding-right: 10px;
+}
+
+.image {
+  padding-left: 30%;
+  padding-right: 50px;
+}
